@@ -41,5 +41,14 @@ task-manager/
 │   ├── routes/              # API routes
 │   └── index.js             # Entry point
 └── README.md                # Project documentation
+
+```
+### .env
+
+```bash
+
+DATABASE_URI = ""
+SECRET_KEY = ""
+
 ```
 
